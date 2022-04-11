@@ -1,14 +1,11 @@
 # ExcellEye
 
-## My Project
+## 近況 - News
+- Github 勉強はじめました
+- README.md 書き方の勉強始めました
 
 
 ---
-## 詳細情報 - Detailed info
-### 活動名 - Screen Name
-- excelleye（ハンドルネーム）
-- 千咲ひなこ（ペンネーム）
-
 ## 興味 - Interest
 - Linux
 - Blender
