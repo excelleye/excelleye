@@ -6,12 +6,14 @@
 ---
 ## 詳細情報 - Detailed info
 ### 活動名 - Screen Name
-- excelleye
+- excelleye（ハンドルネーム）
 - 千咲ひなこ（ペンネーム）
 
 ## 興味 - Interest
 - Linux
 - Blender
+- Maya
+- Zbrush
 - Unity
 - ゲーム開発 - Game development
 
