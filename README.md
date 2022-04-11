@@ -9,7 +9,6 @@
 - Github 勉強始めました
 - README.md 書き方の勉強始めました
 
-
 ---
 ## 興味 - Interest
 - Linux
@@ -18,6 +17,18 @@
 - Zbrush
 - Unity
 - ゲーム開発 - Game development
+
+
+
+<!-- Github stats --> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExcellEye
+&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExcellEye)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 
 ## リンク - Link
 - [Twitter]
