@@ -12,6 +12,8 @@
 ## 興味 - Interest
 - Linux
 - Blender
+- Maya
+- Zbrush
 - Unity
 - ゲーム開発 - Game development
 
