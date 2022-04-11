@@ -1,5 +1,14 @@
 # ExcellEye
 
+<!-- Github stats --> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excelleye&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=excelleye)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ## 近況 - News
 ### Progress!
 - 開発環境を構築するためにバイト中
@@ -19,15 +28,6 @@
 - ゲーム開発 - Game development
 
 
-
-<!-- Github stats --> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExcellEye
-&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExcellEye)]
-(https://github.com/anuraghazra/github-readme-stats)
 
 
 ## リンク - Link
