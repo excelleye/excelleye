@@ -1,7 +1,14 @@
 # ExcellEye
 
 ## 近況 - News
-- Github 勉強はじめました
+### Progress!
+- Rust 勉強中
+- クトゥルフ系猟奇SF作品「Osborne」執筆中
+- ダークファンタジー作品「HEAVEN'S GATE」執筆中
+- SFファンタジー作品「夢見るステートマシン」執筆中
+
+### Start!
+- Github 勉強始めました
 - README.md 書き方の勉強始めました
 
 
