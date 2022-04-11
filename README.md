@@ -18,13 +18,17 @@
 - ゲーム開発 - Game development
 
 ## リンク - Link
-- Twitter
-- Youtube 
+- [Twitter]
+- [Youtube] 
+- [Twitch]
 
 
 
+
+<!-- Link -->
 
 [Twitter]: https://twitter.com/excell_eye
 
 [Youtube]: https://www.youtube.com/channel/UCQuNyZkvq5J-hT5Uhh4rj_g  
 
+[Twitch]: https://www.twitch.tv/excelleye
