@@ -1,22 +1,13 @@
 # ExcellEye
 
+## My Project
 
-## プロフィール - Profile
+
+---
+## 詳細情報 - Detailed info
 ### 活動名 - Screen Name
 - excelleye
 - 千咲ひなこ（ペンネーム）
-
-### 国籍 - Nationalities
-- 日本 - Japan
-
-
-## 環境 - Environment
-- Chromebook
-- Google Pixel 5
-
-## プログラミング言語 - Programming language
-- Rust
-
 
 ## 興味 - Interest
 - Linux
