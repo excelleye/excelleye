@@ -2,10 +2,10 @@
 
 <!-- Github stats --> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excelleye&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExcellEye&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=excelleye&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExcellEye&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
