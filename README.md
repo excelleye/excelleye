@@ -66,7 +66,7 @@
 
 <!-- Link -->
 
-[Twitter]: https://twitter.com/excell_eye
+[Twitter]: https://twitter.com/excelleyes
 
 [Youtube]: https://www.youtube.com/channel/UCQuNyZkvq5J-hT5Uhh4rj_g  
 
