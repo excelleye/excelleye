@@ -29,12 +29,12 @@
 <!-- 開発 -->
 #### 開発関連
 - Linux
-- Rust
+- [Rust]
 
 <!-- ソフトウェア -->
 #### ソフトウェア関連
 
-- Blender
+- [Blender]
 - Maya
 - Zbrush
 - Unity
@@ -72,3 +72,6 @@
 
 [Twitch]: https://www.twitch.tv/excelleye
 
+[Rust]: https://www.rust-lang.org
+
+[Blender]: https://www.blender.org
