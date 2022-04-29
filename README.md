@@ -12,12 +12,12 @@
 ## 近況 - News
 
 <!-- 進捗 -->
-### Progress!
+### Progress！
 - 開発環境 構築するためにバイト中
 - Rust 基礎を勉強中
 
 <!-- 始めたこと -->
-### Start!
+### Start！
 - Gitの勉強始めました
 - Markdownの勉強始めました
 - HTMLとCSSの勉強始めました
