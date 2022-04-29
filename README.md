@@ -23,8 +23,8 @@
 - HTMLとCSSの勉強始めました
 
 
-### After this!
-- Yewを使ったインタラクティブなWebサイト制作を勉強する
+### Next Target！
+- Yewを使ったWeb開発のために、Rustを更に勉強する
 
 ---
 
