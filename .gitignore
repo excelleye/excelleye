@@ -11,7 +11,5 @@ Cargo.lock
 
 
 # Added by cargo
-
 /target
-
-**.code-workspace
+**/target/
