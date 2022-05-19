@@ -7,13 +7,17 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=excelleye&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+## [**世界観テキスト公開中**](novels/README.md)
+上のリンクまたは、リポジトリの"novels"ディレクトリからREADME.mdを開いて閲覧できます。  
+まだ整備できていないページも多いですが、内容は生涯をかけてアップデートされ続けます。
+
+
 ---
 
 ## 近況 - News
 
 <!-- 進捗 -->
 ### Progress！
-- [**世界観テキスト公開中**](novels/README.md)
 - 開発環境 構築するためにバイト中...
 - Rust 基礎を勉強中...
 
