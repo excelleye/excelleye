@@ -1,7 +1,7 @@
 ### キャラクター - Character 
 # 教父オズボーン
 
-![](/image/dummy.png) <!--キャラ画像-->
+![](/novels/image/dummy.png) <!--キャラ画像-->
 
 ## 【紹介文】
 
@@ -18,4 +18,4 @@
 ---
 
 <!-- フッタ―タブ -->
-[<<ホームへ戻る](/README.md)
+[<<ホームへ戻る](/novels/README.md)

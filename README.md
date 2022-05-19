@@ -69,9 +69,6 @@
 
 ---
 
-## ポートフォリオ
-- [テキスト創作物](/work/text/README.md)
-
 
 ## リンク - Link
 - [Twitter]

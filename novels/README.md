@@ -4,6 +4,11 @@
 <h1>Portfolio</h1>
 </div>
 
+現在、3つの世界観が存在。  
+リンクから各ページを閲覧できます。
+
+
+---
 
 <!-- 内容 -->
 
@@ -27,11 +32,11 @@
 
 
 
-- [原稿](/manuscript/heavens-gate/main.md)
+- [原稿](./manuscript/heavens-gate/main.md)
 
-- [キャラクター](/character/heavens-gate/main.md)
+- [キャラクター](./character/heavens-gate/main.md)
 
-- [用語](/glossary/heavens-gate/main.md)
+- [用語](./glossary/heavens-gate/main.md)
 
 
 
@@ -65,11 +70,11 @@
 
 
 
-- [原稿](/manuscript/osborne/main.md)
+- [原稿](./manuscript/osborne/main.md)
 
-- [キャラクター](/character/osborne/main.md)
+- [キャラクター](./character/osborne/main.md)
 
-- [用語](/glossary/osboene/main.md)
+- [用語](./glossary/osboene/main.md)
 
 
 # **夢見るステートマシン - The Dreaming State Machine**
@@ -91,3 +96,4 @@
 
 ---
 <!-- フッタ―タブ -->
+[<<プロフィールへ戻る](/novels/README.md)
