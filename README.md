@@ -7,8 +7,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=excelleye&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-## [**ポートフォリオ公開中**](story/README.md)
-上のリンクまたは、私のプロフィールリポジトリの"story"ディレクトリからREADME.mdを開いて世界観テキストを閲覧できます。  
+## [**世界観テキスト公開中**](/story/README.md)
+上記リンクまたは、私のプロフィールリポジトリの"story"ディレクトリからREADME.mdを開いて世界観テキストを閲覧できます。  
 まだ整備できていないページも多いですが、内容は生涯をかけてアップデートされ続けます。
 
 
