@@ -4,8 +4,8 @@
 
 <!-- 内容 -->
 
-## **“Mutual Interference Augmented Reality（相互干渉拡張現実）”**  
-## **通称 “MIAR”**  
+**“Mutual Interference Augmented Reality（相互干渉拡張現実）”**  
+**通称 “MIAR”**  
 
 それは、実世界に存在しないものを、まるで存在するように扱うことができるようになる、魔法のようなウェアラブルデバイス。  
 そして、MIARの普及によって奇妙な日常の風景を見せる、**国家複合都市トラキア**。  
