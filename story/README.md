@@ -1,14 +1,9 @@
 <!-- ヘッダータブ -->
 <div align="center">
- <h3>ExcellEye　創作集</h3>
+ <h3>ExcellEye　創作</h3>
 <h1>Portfolio</h1>
 </div>
 
-現在、3つの世界観が存在。  
-リンクから各ページを閲覧できます。
-
-
----
 
 <!-- 内容 -->
 
@@ -54,14 +49,14 @@
 果たして彼らが導く運命に、何が待っているのでしょうか？
 
 
-- [原案テキスト](./HEAVENS_GATE.txt)<<工事中…
+- [原案テキスト](./HEAVENS_GATE.txt)
 
-- [キャラクター](./character/heavens-gate/main.md)<<工事中...
+- [キャラクター](./character/heavens-gate/main.md)
 
-- [用語](./glossary/heavens-gate/main.md)<<工事中...
+- [用語](./glossary/heavens-gate/main.md)
 
 
-
+---
 # **Osborne - The Gloom Ones**
 
 暗澹とした、深い霧の夜。  
@@ -91,15 +86,15 @@
 
 
 
+- [原稿]
 
-- [原稿](./manuscript/osborne/main.md)
+- [キャラクター]
 
-- [キャラクター](./character/osborne/main.md)
+- [用語]
 
-- [用語](./glossary/osboene/main.md)
+---
 
-
-# [**夢見るステートマシン - The Dreaming State Machine**](./TheDreamingStateMachine/intro.md)
+# **夢見るステートマシン - The Dreaming State Machine**
 
 **“Mutual Interference Augmented Reality”**  （相互干渉拡張現実）  
 通称 **“MIAR”**  
@@ -118,6 +113,7 @@
 
 架空と現実、アナタのホンモノはどっち？  
 
+- [コンセプトシート](./TheDreamingStateMachine/intro.md)
 
 ---
 <!-- フッタ―タブ -->
