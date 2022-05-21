@@ -54,11 +54,11 @@
 果たして彼らが導く運命に、何が待っているのでしょうか？
 
 
-- [原案テキスト](./HEAVENS_GATE.txt)
+- [原案テキスト](./HEAVENS_GATE.txt)<<工事中…
 
-- [キャラクター](./character/heavens-gate/main.md)
+- [キャラクター](./character/heavens-gate/main.md)<<工事中...
 
-- [用語](./glossary/heavens-gate/main.md)
+- [用語](./glossary/heavens-gate/main.md)<<工事中...
 
 
 
@@ -99,21 +99,24 @@
 - [用語](./glossary/osboene/main.md)
 
 
-# **夢見るステートマシン - The Dreaming State Machine**
+# [**夢見るステートマシン - The Dreaming State Machine**](./TheDreamingStateMachine/intro.md)
 
-ここではない何処か、今ではない何時か。  
-誰かが望み、そして創った。  
-幾多の断片が混ざり合う、奇妙な世界。  
-雲上の大都市、トラキアへようこそ。  
+**“Mutual Interference Augmented Reality”**  （相互干渉拡張現実）  
+通称 **“MIAR”**  
 
-貴方が求めるものは、平和で温かい日常？  
-それとも、刺激的で冷たい非日常？  
+それは、実世界に存在しないものを、まるで存在するかのように知覚し、触れ、扱うことができるようになる、魔法のようなウェアラブルデバイス。
 
-- [原稿](./manuscript/the-dreaming-state-machine/main.md)
 
-- [キャラクター](./character/the-dreaming-state-machine/main.md)
+今や全ての人類が、MIARのアカウントを保有する時代。  
 
-- [用語](./glossary/the-dreaming-state-machine/main.md)
+だから、この世界においてホンモノとニセモノの区別なんてものは、大した意味を持たない。  
+
+街中を歩く人、犬、車、あるいは、街そのものでさえ、本当は実在しない架空物、なんてことだって有り得るのだ。  
+
+目で見え、触れることができても、ホンモノとは限らない。  
+そんな、少し奇妙で、夢みたいな世界に生きる、少年少女たちの青春物語。  
+
+架空と現実、アナタのホンモノはどっち？  
 
 
 ---
