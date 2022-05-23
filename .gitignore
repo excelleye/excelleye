@@ -15,4 +15,4 @@ Cargo.lock
 **/target/
 
 #VsCode Workspace
-.code-workspace
+**.code-workspace
