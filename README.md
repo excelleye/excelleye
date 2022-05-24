@@ -47,9 +47,21 @@
 #### ソフトウェア関連
 
 - [Blender]
-- Maya
+- Autodesk Maya
 - Zbrush
 - Unity
+- Adobe Photoshop
+
+#### ゲーム関連
+
+- DARK SOULS シリーズ
+- Bloodborne
+- ELDEN EING
+- 星のカービィ シリーズ
+- アズールレーン
+- アークナイツ
+- ブルーアーカイブ
+- ウマ娘プリティーダービー
 
 <!-- トピックス -->
 #### トピックス
@@ -57,6 +69,7 @@
 - ゲーム開発
 - 3DCG
 - イラスト
+- 世界観創作
 
 ---
 
