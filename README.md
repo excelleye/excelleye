@@ -1,31 +1,37 @@
 # ExcellEye
 
-<!-- Github stats --> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excelleye&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=excelleye&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
 ## 近況 - News
 
 <!-- 進捗 -->
-### Progress！
-- 開発環境 構築するためにバイト中...
-- Rust 基礎を勉強中...
+### *Progress!!*
+- 本格的に就活中！
+- Rust 基礎を勉強中！
 
 <!-- 始めたこと -->
-### Start！
+### *Start!!*
 - Gitの勉強始めました
 - Markdownの勉強始めました
 - HTMLとCSSの勉強始めました
 
+<!-- 次の目標 -->
+### *Next Target!!*
+- Cargoをより深く理解する
 
-### Next Target！
-- Web開発のために、Rustを更に勉強する
+---
+<!--ポートフォリオ Portfolio-->
+## ポートフォリオ - Portfolio
+### ◆グラフィックス - Graphics（制作中）
+### ◆世界観テキスト - Worldview Text （制作中）
+### ◆プログラミング - Programming（制作中）
+### ◆ウェブサイト - Web Site（制作中）
+
+---
+
+<!-- Github stats --> 
+## Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excelleye&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=excelleye&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
