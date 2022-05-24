@@ -20,10 +20,10 @@
 ---
 <!--ポートフォリオ Portfolio-->
 ## ポートフォリオ - Portfolio
-### ◆グラフィックス - Graphics（制作中）
-### ◆世界観テキスト - Worldview Text （制作中）
-### ◆プログラミング - Programming（制作中）
-### ◆ウェブサイト - Web Site（制作中）
+### ▽グラフィックス - Graphics（制作中）
+### ▽世界観テキスト - Worldview Text （制作中）
+### [▽プログラミング - Programming](./portfolio/program/README.md)
+### ▽ウェブサイト - Web Site（制作中）
 
 ---
 
