@@ -1,3 +1,5 @@
+//《練習》足し算プログラム
+
 use std::io;
 use std::string::String;
 
