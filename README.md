@@ -22,7 +22,7 @@
 ## ポートフォリオ - Portfolio
 ### ▽グラフィックス - Graphics（制作中）
 ### ▽世界観テキスト - Worldview Text （制作中）
-### [▽プログラミング - Programming](./portfolio/program/README.md)
+### [▽プログラミング - Programming](./portfolio/program/)
 ### ▽ウェブサイト - Web Site（制作中）
 
 ---
