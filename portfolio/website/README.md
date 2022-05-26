@@ -9,4 +9,4 @@
 
 ---
 <!-- フッタ―タブ -->
-[<<ホームへ戻る](../../)
+[<<ホームへ戻る](https://github.com/excelleye/excelleye)
